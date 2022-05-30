@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color:#FF0000;
+}
+header {
+    background-color:#269926;
+    height:50px;
+}
+
+.link-header {
+    color:white;
+    font-size:25px;
+    padding:210px;
+}
+
+p {
+    text-align: center;
+    background-color:seagreen;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+     background-color:seagreen;
+}
+
+.link-nav {
+    padding:235px;
+}
+
+h2 {
+    text-align: center;
+}
